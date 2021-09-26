@@ -1,1 +1,5 @@
-# ECE444-F2021-Lab2
+Adam Pietrewicz - ECE444 Lab 2
+
+This repo is a clone of:
+https://github.com/miguelgrinberg/flasky
+

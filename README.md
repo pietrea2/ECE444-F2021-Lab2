@@ -4,10 +4,20 @@ This repo is a clone of:
 https://github.com/miguelgrinberg/flasky
 
 Activity 1 Screenshot:
-![image](https://user-images.githubusercontent.com/60241038/134790414-bf964534-7ff0-4a45-89f7-0e5e1e42c61c.png)
-![image](https://user-images.githubusercontent.com/60241038/134790417-16ca46d0-98a8-43ce-a13d-068588e1545d.png)
+
+![Activity 1 Screenshot](https://user-images.githubusercontent.com/60241038/134824193-9f10b0e4-62e2-43fc-9345-05ea668cfcfd.png)
+
+![Activity 1 Screenshot - 2](https://user-images.githubusercontent.com/60241038/134824203-304da52c-f9c9-4609-ae82-b523470687fa.png)
+
 
 
 Activity 2 Screenshot:
-![image](https://user-images.githubusercontent.com/60241038/134790423-62c78153-16fd-4b98-a625-f66beda9cebf.png)
+
+![Activity 2 Screenshot](https://user-images.githubusercontent.com/60241038/134824220-11b988e9-8498-4da8-80e7-c8124b00408e.png)
+
+
+
+Activity 3 Screenshot:
+
+![Activity 3 Screenshot](https://user-images.githubusercontent.com/60241038/134824250-bdb26e16-5b67-4fc4-a1e5-1fcf6cecea44.png)
 
